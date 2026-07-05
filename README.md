@@ -1,1 +1,1 @@
-Verificar a propriedade do domínio por meio do registro DNS
+google-site-verification=hkJDlY3WQZSTV8z2k-6BWeQukCbvwQL1O2k0RJYrBMk
